@@ -1,4 +1,5 @@
 ﻿using ME.DesignPattern.Main.AbstractFactory;
+using ME.DesignPattern.Main.Builder;
 using ME_FactoryMethod;
 using ME_Singleton;
 
@@ -6,7 +7,9 @@ using ME_Singleton;
 
 //FactoryMethodRun.Run();
 
-AbstractFactoryRun.Run();
+//AbstractFactoryRun.Run();
+
+BuilderRun.Run();
 
 
 

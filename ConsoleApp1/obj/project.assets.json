@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Work\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Work\\C#\\ConsoleApp1\\ME.DesignPattern.Main.csproj",
+      "projectName": "ME.DesignPattern.Main",
+      "projectPath": "D:\\Work\\C#\\ConsoleApp1\\ME.DesignPattern.Main.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
       "outputPath": "D:\\Work\\C#\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
