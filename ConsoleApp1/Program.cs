@@ -2,6 +2,7 @@
 using ME.DesignPattern.Main.Adapter;
 using ME.DesignPattern.Main.Bridge;
 using ME.DesignPattern.Main.Builder;
+using ME.DesignPattern.Main.Composite;
 using ME.DesignPattern.Main.Prototype;
 using ME_FactoryMethod;
 using ME_Singleton;
@@ -18,7 +19,9 @@ using ME_Singleton;
 
 //AdapterRun.Run();
 
-BridgeRun.Run();
+//BridgeRun.Run();
+
+CompositeRun.Run();
 
 
 
